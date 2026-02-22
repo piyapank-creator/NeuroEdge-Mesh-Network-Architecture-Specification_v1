@@ -1,0 +1,1 @@
+# NeuroEdge-Mesh-Network-Architecture-Specification_v1
